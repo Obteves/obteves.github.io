@@ -16,7 +16,7 @@ This is a **personal portfolio website** built with **HTML, CSS**, and basic **J
 - **JavaScript (optional)** – For future interactive elements  
 
 ## 🚀 Live Demo  
-You can view the live site here: **[your-portfolio-link](#)**  
+You can view the live site here: **[your-portfolio-link](https://obteves.github.io/portfolio)**  
 
 ## 🛠️ How to Use  
 1. Clone the repository:  
